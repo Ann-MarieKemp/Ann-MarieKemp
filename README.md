@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Ann-Marie
 
 <!--
 **Ann-MarieKemp/Ann-MarieKemp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Ann-Marie is currently a software developer in the CIO organization at IBM building internal tools to support and increase IBMer productivity. She has served in technical leadership roles including leading a team to build a React Native application that is a companion to the internal IBM homepage as well as coordinating deployments of the intranet homepage across multiple teams. She has contributed to the internal IBM homepage through three iterations built in React and VueJS. She has helped to build a GraphQL layer combining multiple internal support applications to enable more efficient API calls from the application's frontend. She is a strong communicator and loves to spend time helping her colleagues troubleshoot technical issues. 
+
+Ann-Marie holds a degree in theatrical production from the University of Arizona with an emphasis in Sound Design. She began her theatrical career in New York City as a sound engineer and technician for theatrical productions working at some of the city's most famous off-broadway theaters including The Public Theater, Second Stage Theater and Playwrights Horizons. Highlights of her theatrical career included mixing the pre-broadway run of Fun Home at The Public, a revival of The Last Five Years directed by Jason Robert Brown at Second Stage, and working as a microphone technician at the Delacorte Theater in Central Park. 
+
+She has also worked as a broadcast sound engineer, working as a microphone technician and stage manager with NEP Group for Al Jazeera America as well as mixing a live nightly fashion broadcast for Amazon. She also spent a few years as a staff member at Thomson Reuters mixing nightly broadcasts for a news channel called i24 News. She has also mixed national broadcasts as a freelancer at other news stations including Fox News/Fox Business.
