@@ -28,4 +28,5 @@ As much as the github contribution tracker on these profiles is a bad indicator 
 <img width="980" alt="Screenshot 2024-09-28 at 9 11 30 PM" src="https://github.com/user-attachments/assets/439aca70-3642-4867-963f-82e0f89be3e6">
 <img width="944" alt="Screenshot 2024-09-28 at 9 11 38 PM" src="https://github.com/user-attachments/assets/d5534b63-0652-40c2-a77a-cfa5aa5e4433">
 
+Ann-Marie's Medium articles: https://medium.com/@amkemp
 
