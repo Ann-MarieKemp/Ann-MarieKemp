@@ -21,7 +21,7 @@ Ann-Marie holds a degree in theatrical production from the University of Arizona
 
 She has also worked as a broadcast sound engineer, working as a microphone technician and stage manager with NEP Group for Al Jazeera America as well as mixing a live nightly fashion broadcast for Amazon. She also spent a few years as a staff member at Thomson Reuters mixing nightly broadcasts for a news channel called i24 News. She has also mixed national broadcasts as a freelancer at other news stations including Fox News/Fox Business.
 
-As much as the github contribution tracker on these profiles is a bad indicator of actual meaningful contribution to projects since I can't display my internal contributions in my public profile so here they are in screenshot form to give an idea of why this profile is so sparse in the years since I started at IBM:
+As much as the github contribution tracker on these profiles is a bad indicator of actual meaningful contribution to projects since I can't display my internal contributions in my public profile here they are in screenshot form to give an idea of why this profile is so sparse in the years since I started at IBM:
 
 <img width="940" alt="Screenshot 2024-09-28 at 9 11 06 PM" src="https://github.com/user-attachments/assets/ebfe9ec6-abe0-47b8-8c1e-5af89e135bab">
 <img width="944" alt="Screenshot 2024-09-28 at 9 11 18 PM" src="https://github.com/user-attachments/assets/af0b0081-412a-404e-8e7e-6f2b85d6c6ac">
