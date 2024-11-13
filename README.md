@@ -23,7 +23,7 @@ She has also worked as a broadcast sound engineer, working as a microphone techn
 
 As much as the github contribution tracker on these profiles is a bad indicator of actual meaningful contribution to projects since I can't display my internal contributions in my public profile here they are in screenshot form to give an idea of why this profile is so sparse in the years since I started at IBM:
 
-<img width="940" alt="Screenshot 2024-09-28 at 9 11 06 PM" src="https://github.com/user-attachments/assets/ebfe9ec6-abe0-47b8-8c1e-5af89e135bab">
+![Screenshot 2024-11-13 at 2 40 19 PM](https://github.com/user-attachments/assets/2c3fd8bc-c0f1-43f3-b7f7-91848434d8fd)
 <img width="944" alt="Screenshot 2024-09-28 at 9 11 18 PM" src="https://github.com/user-attachments/assets/af0b0081-412a-404e-8e7e-6f2b85d6c6ac">
 <img width="980" alt="Screenshot 2024-09-28 at 9 11 30 PM" src="https://github.com/user-attachments/assets/439aca70-3642-4867-963f-82e0f89be3e6">
 <img width="944" alt="Screenshot 2024-09-28 at 9 11 38 PM" src="https://github.com/user-attachments/assets/d5534b63-0652-40c2-a77a-cfa5aa5e4433">
